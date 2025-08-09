@@ -2,7 +2,7 @@
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
   color-scheme: light dark;
 
-  --text-color: black;
+  --text-color: rgba(0, 0, 0, 0.87);
   --bg-color: white;
 
   color: var(--text-color);

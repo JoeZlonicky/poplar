@@ -1,5 +1,6 @@
 import type { Meta, StoryObj } from "@storybook/react-vite";
 import { fireEvent, within } from "@testing-library/react";
+import { expect } from "storybook/test";
 import { App } from "./App";
 
 const meta: Meta<typeof App> = {

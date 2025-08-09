@@ -1,3 +1,4 @@
+import { expect, it } from "vitest";
 import { addTwoNumbers } from "./math";
 
 it("adds 1 + 2", () => {
