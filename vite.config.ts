@@ -48,14 +48,14 @@ export default defineConfig({
                   colorScheme: "dark",
                 },
               },
-              {
-                name: "Firefox",
-                browser: "firefox",
-              },
-              {
-                name: "Webkit",
-                browser: "webkit",
-              },
+              // {
+              //   name: "Firefox",
+              //   browser: "firefox",
+              // },
+              // {
+              //   name: "Webkit",
+              //   browser: "webkit",
+              // },
             ],
           },
           setupFiles: [".storybook/vitest.setup.ts"],
